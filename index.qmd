@@ -2,14 +2,15 @@
 title: "Hermei Herman" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profilephoto.jpg
+  image: Website.jpg
+  #image: img/profilephoto.jpg
   image-width: 16em
   image-shape: round # rectangle  round  rounded
   
   links:
     - icon: linkedin
       text: LinkedIn
-      #href: 
+      href: https://www.linkedin.com/in/hermei-herman-507642288/
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/
@@ -18,8 +19,7 @@ about:
       href: https://github.com/hermei/hermei.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://github.com/hermei/hermei.github.io/Resume(1).pdf
-      #href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://github.com/hermei/hermei.github.io/blob/main/Resume%20(1).pdf
     - icon: mailbox
       text: Email
       href: mailto:hh20@geneseo.edu
@@ -27,16 +27,17 @@ about:
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Hermei Herman majors in Sociomedical Sciences with minors in Human Development and Data Analytics at SUNY Geneseo. When not working on her papers, Hermei enjoys playing videos, specifically the Sims, and watching TV shows. 
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.S. in Sociomedical Sciences | Aug 2022 - May 2026 <br>
+Minor in Human Development & Data Analytics 
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+SUNY Geneseo Department of Psychology | Research Assistant  | May 2023 - Present <br>
+CIT Help Desk  | Help Desk Technician  | August 2023 - Present <br>
 
 
