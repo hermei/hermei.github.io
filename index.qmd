@@ -16,7 +16,7 @@ about:
       href: https://github.com/hermei/hermei.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: resume-hh.pdf
+      href: https://hermei.github.io/resume-hh.pdf
     - icon: mailbox
       text: Email
       href: mailto:hh20@geneseo.edu
