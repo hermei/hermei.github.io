@@ -5,21 +5,18 @@ about:
   image: img/Website.jpg
   #image: img/profilephoto.jpg
   image-width: 16em
-  image-shape: round # rectangle  round  rounded
+  image-shape: rounded # rectangle  round  rounded
   
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/hermei-herman-507642288/
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/
     - icon: github
       text: GitHub
       href: https://github.com/hermei/hermei.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://github.com/hermei/hermei.github.io/blob/main/Resume%20(1).pdf
+      href: resume-hh.pdf
     - icon: mailbox
       text: Email
       href: mailto:hh20@geneseo.edu
